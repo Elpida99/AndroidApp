@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Assignment 1</string>
+
+    <string name="Welcome">Welcome!</string>
+    <string name="submit_button">Submit</string>
+    <string name="search_button">Search</string>
+
+    <string name="hint_fname">Write your first name</string>
+    <string name="hint_lname">Write your last name</string>
+    <string name="hint_age">Write your age</string>
+    <string name="hint_search">Search by first name</string>
+
+    <string name="instruction">Please write at least 2 letters</string>
+
+    <string name="digits"> abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZαάβγδεέζηήθιίκλμνξοόπρστυύφχψωώΑΆΒΓΔΕΈΖΗΉΘΙΊΚΛΜΝΞΟΌΠΡΣΤΥΎΦΧΨΩΏ- ς</string>
+
+    <!--Second Activity-->
+    <string name="back_button">Back</string>
+
+    <string name="idTitle">ID</string>
+    <string name="fnameTitle">First Name</string>
+    <string name="lnameTitle">Last Name</string>
+    <string name="ageTitle">Age</string>
+
+</resources>
